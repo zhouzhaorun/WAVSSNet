@@ -26,6 +26,8 @@ bash scripts/test.sh
 bash scripts/evaluation.sh
 ```
 
+# Evaluation Logs
 
+The evaluation logs on the iHarmony4 and ccHarmony datasets are provided in the [`documents/`](./documents/) directory for result verification and reproducibility.
 
 
