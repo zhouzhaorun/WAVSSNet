@@ -1,0 +1,15 @@
+HCOCO: 4283
+HCOCO MSE 10.30 | PSNR 41.16 | SSIM 0.9939 |fMSE 205.74 | fPSNR 26.99 | fSSIM 0.9232
+Per-image metrics saved to results/iHarmony4/HCOCO_per_image_metrics.csv
+HAdobe5k: 2160
+HAdobe5k MSE 16.30 | PSNR 41.01 | SSIM 0.9828 |fMSE 128.56 | fPSNR 30.00 | fSSIM 0.9085
+Per-image metrics saved to results/iHarmony4/HAdobe5k_per_image_metrics.csv
+HFlickr: 828
+HFlickr MSE 46.09 | PSNR 35.64 | SSIM 0.9850 |fMSE 317.35 | fPSNR 25.27 | fSSIM 0.9196
+Per-image metrics saved to results/iHarmony4/HFlickr_per_image_metrics.csv
+Hday2night: 133
+Hday2night MSE 50.25 | PSNR 37.69 | SSIM 0.9683 |fMSE 702.79 | fPSNR 22.36 | fSSIM 0.6594
+Per-image metrics saved to results/iHarmony4/Hday2night_per_image_metrics.csv
+IHD: 7404
+IHD MSE 16.77 | PSNR 40.43 | SSIM 0.9892 |fMSE 204.63 | fPSNR 27.59 | fSSIM 0.9138
+Per-image metrics saved to results/iHarmony4/IHD_per_image_metrics.csv

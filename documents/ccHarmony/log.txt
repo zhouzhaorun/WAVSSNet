@@ -1,0 +1,3 @@
+ccHarmony: 1180
+ccHarmony MSE 41.13 | PSNR 38.54 | SSIM 0.9859 |fMSE 293.95 | fPSNR 27.30 | fSSIM 0.8947
+Per-image metrics saved to results/ccHarmony/ccHarmony_per_image_metrics.csv
