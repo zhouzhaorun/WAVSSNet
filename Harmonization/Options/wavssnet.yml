@@ -9,7 +9,7 @@ datasets:
   train:
     name: TrainSet
     type: Dataset_PairedImage
-    dataroot: /data0/zzr/datasets/iHarmony4/
+    dataroot: /path/to/iHarmony4/
     dataname: IHD
     geometric_augs: true
 
@@ -36,7 +36,7 @@ datasets:
   val:
     name: ValSet
     type: Dataset_PairedImage
-    dataroot: /data0/zzr/datasets/iHarmony4/
+    dataroot: /path/to/iHarmony4/
     dataname: IHD
     gt_size: 256 
     use_flip_opt: f23  
@@ -102,7 +102,7 @@ train:
 # validation settings
 val:
   window_size: 8
-  val_freq: !!float 100
+  val_freq: !!float 4000
   save_img: true
   rgb2bgr: true
   use_image: true
