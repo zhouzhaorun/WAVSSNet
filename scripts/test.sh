@@ -1,6 +1,6 @@
 # # iHarmony4
 # CUDA_VISIBLE_DEVICES=0 python Harmonization/test.py \
-#     --dataset_root /data0/zzr/datasets/iHarmony4 \
+#     --dataset_root /path/to/iHarmony4 \
 #     --weights checkpoints/wavssnet.pth \
 #     --yaml_file Harmonization/Options/wavssnet.yml \
 #     --datasets HAdobe5k HCOCO HFlickr Hday2night \
@@ -11,7 +11,7 @@
 
 # ccHarmony
 CUDA_VISIBLE_DEVICES=0 python Harmonization/test.py \
-    --dataset_root /data0/zzr/datasets \
+    --dataset_root /path/to/datasets \
     --weights checkpoints/wavssnet_ccharmony.pth \
     --yaml_file Harmonization/Options/wavssnet.yml \
     --datasets ccHarmony \
